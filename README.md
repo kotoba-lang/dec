@@ -29,7 +29,7 @@ wasmi) stays substrate.
 
 ## Status
 
-Restoration complete. All 8 original Rust `#[test]`s ported 1:1 to `test/dec_test.cljc`
+Restoration complete. All 8 original Rust `#[test]`s ported 1:1 to `test/dec_test.cljk`
 (plus a namespace-loads smoke test) — 10 tests / 78 assertions, 0 failures, 0 errors.
 
 ## Develop
