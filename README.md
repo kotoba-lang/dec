@@ -35,5 +35,5 @@ Restoration complete. All 8 original Rust `#[test]`s ported 1:1 to `test/dec_tes
 ## Develop
 
 ```bash
-clojure -M:test
+kbb -M:test
 ```
